@@ -31,7 +31,9 @@
 - 
 
 ### Algorithms / State machines / Control
-
+- Logical flow charts
+- State Machines?
+- Pre-defined classes/systems (PID controller)
 
 ## Workshop2 - Prompts and Ideation
 
