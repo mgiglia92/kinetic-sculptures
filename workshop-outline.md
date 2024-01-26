@@ -36,5 +36,12 @@
 - Pre-defined classes/systems (PID controller)
 
 ## Workshop2 - Prompts and Ideation
+- Prior-art and research through artists list
+    - Find elements in pieces from these artists that connect to ideas related to systems, positive/negative feedback, stability/instability
+- Ideate through potential extensions of the "Positive Feedback Pendulum" 
+- Reimagine the "Positive Feedback Pendulum's" visual asthetic. What can we do to make the concepts of instability more apparant/ more potent
 
 ## Workshop3 - Implementation and Feasibility
+- Using one of your ideas from the ideation process, now ideate about how one can implement this extension or re-visualization in a feasible way
+- Going through this, what are some skills/tools that you will need to execute this implementation?
+- 
